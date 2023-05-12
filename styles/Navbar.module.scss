@@ -1,0 +1,24 @@
+.navbar {
+  padding: 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #9ab8c2;
+}
+
+.webDev {
+  font-size: 30px;
+  color: #0f0336;
+}
+
+.navLink {
+  margin-left: 40px;
+  font-size: 25px;
+  color: #0b0229;
+}
+
+.active {
+  margin-left: 40px;
+  font-size: 30px;
+  color: #db1212;
+}
